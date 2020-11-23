@@ -5,3 +5,4 @@ This repository contains tutorials in jupyter notebooks for beginners who want t
 [2. Building a Multi-Layer Perceptron with Keras](https://github.com/visionatseecs/keras-starter/blob/main/keras_intro_mlp.ipynb) <br>
 [3. Building a CNN with Keras](https://github.com/visionatseecs/keras-starter/blob/main/keras_intro_cnn.ipynb) <br>
 [4. Visualizing/Plotting the model architecture in Keras](https://github.com/visionatseecs/keras-starter/blob/main/keras_model_plot.ipynb)<br>
+[5. Classification of Images using Built-In Models](https://github.com/visionatseecs/keras-starter/blob/main/keras_inbuilt_classification.ipynb) <br>
