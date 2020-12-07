@@ -6,3 +6,5 @@ This repository contains tutorials in jupyter notebooks for beginners who want t
 [3. Building a CNN with Keras](https://github.com/visionatseecs/keras-starter/blob/main/keras_intro_cnn.ipynb) <br>
 [4. Visualizing/Plotting the model architecture in Keras](https://github.com/visionatseecs/keras-starter/blob/main/keras_model_plot.ipynb)<br>
 [5. Classification of Images using Built-In Models](https://github.com/visionatseecs/keras-starter/blob/main/keras_inbuilt_classification.ipynb) <br>
+[6. Creating AlexNet by combining primitive CNN Layers](https://github.com/visionatseecs/keras-starter/blob/main/keras_alexnet.ipynb) <br>
+[7. Creating VGG-Net by combining primitive CNN layers](https://github.com/visionatseecs/keras-starter/blob/main/keras_vgg.ipynb) <br>
