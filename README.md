@@ -10,3 +10,4 @@ This repository contains tutorials in jupyter notebooks for beginners who want t
 [7. Creating VGG-Net by combining primitive CNN layers](https://github.com/visionatseecs/keras-starter/blob/main/keras_vgg.ipynb) <br>
 [8. Visualizing CNN Feature Maps in Keras](https://github.com/visionatseecs/keras-starter/blob/main/keras_visualize_feature_maps.ipynb) <br>
 [9. Transfer Learning for Image Classification](https://github.com/visionatseecs/keras-starter/blob/main/keras_transfer_learning.ipynb) <br>
+[10. Downloading Kaggle Dataset in Colab](https://github.com/visionatseecs/keras-starter/blob/main/Kaggle_Setup_in_Colab.ipynb) <br>
