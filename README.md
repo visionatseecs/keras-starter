@@ -11,3 +11,4 @@ This repository contains tutorials in jupyter notebooks for beginners who want t
 [8. Visualizing CNN Feature Maps in Keras](https://github.com/visionatseecs/keras-starter/blob/main/keras_visualize_feature_maps.ipynb) <br>
 [9. Transfer Learning for Image Classification](https://github.com/visionatseecs/keras-starter/blob/main/keras_transfer_learning.ipynb) <br>
 [10. Downloading Kaggle Dataset in Colab](https://github.com/visionatseecs/keras-starter/blob/main/Kaggle_Setup_in_Colab.ipynb) <br>
+[11. Grad-CAM for visualizing attention mechanism in Image Classification](https://github.com/visionatseecs/keras-starter/blob/main/keras_grad_cam.ipynb) <br>
