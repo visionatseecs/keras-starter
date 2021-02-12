@@ -13,3 +13,5 @@ This repository contains tutorials in jupyter notebooks for beginners who want t
 [9. Visualizing CNN Feature Maps in Keras](https://github.com/visionatseecs/keras-starter/blob/main/keras_visualize_feature_maps.ipynb) <br>
 [10. Transfer Learning for Image Classification](https://github.com/visionatseecs/keras-starter/blob/main/keras_transfer_learning.ipynb) <br>
 [11. Grad-CAM for visualizing attention mechanism in Image Classification](https://github.com/visionatseecs/keras-starter/blob/main/keras_grad_cam.ipynb) <br>
+[12. Training Faster-RCNN for Object Detection](https://github.com/visionatseecs/keras-starter/blob/main/Faster-RCNN/faster_rcnn.ipynb) <br>
+[13. Image Clustering using k-means and visualizing using t-SNE](https://github.com/visionatseecs/keras-starter/blob/main/Clustering/clustering.ipynb) <br>
